@@ -1,0 +1,1 @@
+The function 'analyzeSentence' takes a sentence as input and returns an object containing the length of the sentence, the number of words and the number of vowels. The example usage shows how to call this function and print the results.
